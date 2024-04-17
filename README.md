@@ -14,14 +14,14 @@ Le projet "Data Sobriété pour l'entreprise Engie" vise à optimiser la consomm
   - **analyse_données_énergétiques/:** Jeux de données analytiques liés aux données énergétiques.
   - **donnée_batiments/:** Données supplémentaires relatives à la consommation énergétique des bâtiments.
 
-### Carnets Jupyter
+### Notebook Jupyter
 
-- **EDA.ipynb:** Carnet pour l'Analyse Exploratoire des Données.
-- **ElecDom.ipynb:** Carnet axé spécifiquement sur l'analyse de la consommation électrique domestique.
-- **Preprocessing_ElecDom.ipynb:** Carnet pour le prétraitement des données de consommation électrique domestique.
-- **data_analysis_dpe.ipynb:** Carnet pour l'analyse des données relatives aux certificats de performance énergétique.
-- **données_batiment.ipynb:** Carnet pour l'analyse des données relatives aux bâtiments.
-- **Analy.ipynb:** Carnet pour des analyses générales.
+- **EDA.ipynb:** Notebook pour l'Analyse Exploratoire des Données.
+- **ElecDom.ipynb:** Notebook axé spécifiquement sur l'analyse de la consommation électrique domestique.
+- **Preprocessing_ElecDom.ipynb:** Notebook pour le prétraitement des données de consommation électrique domestique.
+- **data_analysis_dpe.ipynb:** Notebook pour l'analyse des données relatives aux certificats de performance énergétique.
+- **données_batiment.ipynb:** Notebook pour l'analyse des données relatives aux bâtiments.
+- **Analy.ipynb:** Notebook pour des analyses générales.
 
 ### Scripts
 
@@ -47,11 +47,11 @@ Le projet "Data Sobriété pour l'entreprise Engie" vise à optimiser la consomm
 
 ## Contributeurs
 
-- Alimou DIALLO (@santou): Chef de Projet & Analyste de Données
-- GBE Grâce (@keagnon): Scientifique des Données & Spécialiste de l'Énergie
-- Melissa ADIB (@melissa) : Scientifique des Données & Spécialiste de l'Énergie
-- AMAGBEGNON Genevieve (@genevieve) : Scientifique des Données & Spécialiste de l'Énergie
-- NIMAGA Mahamadou (@Mams) : Scientifique des Données & Spécialiste de l'Énergie
+- Alimou DIALLO (@santou): Data engineer
+- GBE Grâce (@keagnon): Data engineer
+- Melissa ADIB (@melissa) : Data engineer
+- AMAGBEGNON Genevieve (@genevieve) : Data scientist
+- NIMAGA Mahamadou (@Mams) : Data engineer
 
 ## Licence
 
